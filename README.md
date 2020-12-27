@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/bantihistamines?si=a9npRdzhR7uzv1aL3cKugw)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="amckenna Spotify Playing" width="350" />](https://open.spotify.com/user/a9npRdzhR7uzv1aL3cKugw)
+
 
 ### Connect with me:
 
