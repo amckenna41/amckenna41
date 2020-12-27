@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 [<img align="left" alt="linkedin width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://www.linkedin.com/in/adam-mckenna-7a5b22151/]
 [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+insert email here
+
+
 <!-- YOUTUBE:START -->
 - [This is ALL you NEED to Become a Web Developer Today (2021)](https://www.youtube.com/watch?v=LTwFX-hitQo)
 - [Top VS Code Updates | Last 2020 Update | v1.52 Released!! | Tips & Tricks 2020](https://www.youtube.com/watch?v=dgOu1Y9xl5k)
@@ -65,3 +68,6 @@ Here are some ideas to get you started:
 
 
 [linkedin]: https://www.linkedin.com/in/adam-mckenna-7a5b22151/
+
+https://github.com/anuraghazra
+https://github.com/anuraghazra/github-readme-stats
