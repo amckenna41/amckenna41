@@ -5,13 +5,13 @@
 ### I'm a final year Master's student, studying Computer Science at Queen's University Belfast from Belfast, Ireland. 🎓🇮🇪🇬🇧
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Protein Secondary Structure prediction using deep learning)](https://github.com/amckenna41/CDBLSTM_PSP)
-- 🌱 I’m currently learning Unreal Engine 4 via Udemy *udemy courses https://www.udemy.com/course/unrealcourse/
-- 📚 Past Udemy Courses: Complete Python Bootcamp, Python for data analysis and visualisation and The complete Android Oreo development course.
+- 🌱 I’m currently learning [Unreal Engine 4](https://www.udemy.com/course/unrealcourse/) and some light [Android Development](https://www.udemy.com/course/the-complete-android-oreo-developer-course/) via Udemy.
+
 - 👯 I’m looking to collaborate on any data science, machine learning or bioinformatics related projects. 
+
+
+- 📚 Past Udemy Courses: Complete Python Bootcamp, Python for data analysis and visualisation and The complete Android Oreo development course.
 
 ### Spotify Playing 🎧
 
