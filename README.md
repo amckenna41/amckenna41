@@ -1,8 +1,8 @@
-### Hi there 👋 I'm Adam
+## Hi there 👋 I'm Adam
 
 
 
-## I'm a final year Master's student, studying Computer Science at Queen's University Belfast 🎓🇮🇪🇬🇧
+### I'm a final year Master's student, studying Computer Science at Queen's University Belfast 🎓🇮🇪🇬🇧
 
 
 
