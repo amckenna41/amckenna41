@@ -3,7 +3,7 @@
 
 
 ## I'm a final year Master's student, studying Computer Science at Queen's <br>
-University Belfast 🎓🇮🇪🇬🇧
+## University Belfast 🎓🇮🇪🇬🇧
 
 
 <!--
