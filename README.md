@@ -13,10 +13,10 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="amckenna Spotify Playing" width="350" />](https://open.spotify.com/user/a9npRdzhR7uzv1aL3cKugw)
 
-
 ### Connect with me:
 
 [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Insta" width="22px" src="https://raw.githubusercontent.com/ErickSimoes/email-icon/master/ig.png"/>][linkedin]
 
 insert email here
 
