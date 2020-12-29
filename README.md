@@ -16,7 +16,7 @@
 ### Connect with me:
 
 [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Insta" width="22px" src="https://raw.githubusercontent.com/ErickSimoes/email-icon/master/ig.png"/>][linkedin]
+[<img align="left" alt="Insta" width="22px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/instagram-icon.svg"/>][linkedin]
 
 insert email here
 
