@@ -4,14 +4,10 @@
 
 ### I'm a final year Master's student, studying Computer Science at Queen's University Belfast from Belfast, Ireland. 🎓🇮🇪🇬🇧
 
-
+- 📚 My Master's Thesis this year is on the prediction of biological characteristics & functionalities of viral proteins via Digital Signal Processing and Machine Learning techniques. 
 - 🔭 I’m currently working on Protein Secondary Structure prediction using deep learning)](https://github.com/amckenna41/CDBLSTM_PSP)
 - 🌱 I’m currently learning [Unreal Engine 4](https://www.udemy.com/course/unrealcourse/) and some light [Android Development](https://www.udemy.com/course/the-complete-android-oreo-developer-course/) via Udemy.
-
 - 👯 I’m looking to collaborate on any data science, machine learning or bioinformatics related projects. 
-
-
-- 📚 Past Udemy Courses: Complete Python Bootcamp, Python for data analysis and visualisation and The complete Android Oreo development course.
 
 ### Spotify Playing 🎧
 
@@ -20,7 +16,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="linkedin width"="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://www.linkedin.com/in/adam-mckenna-7a5b22151/]
 [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 insert email here
