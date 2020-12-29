@@ -2,8 +2,7 @@
 
 
 
-## I'm a final year Master's student, studying Computer Science at Queen's <br>
-## University Belfast 🎓🇮🇪🇬🇧
+## I'm a final year Master's student, studying Computer Science at Queen's University Belfast 🎓🇮🇪🇬🇧
 
 
 <!--
@@ -24,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="linkedin width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://www.linkedin.com/in/adam-mckenna-7a5b22151/]
+[<img align="left" alt="linkedin width"="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://www.linkedin.com/in/adam-mckenna-7a5b22151/]
 [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 insert email here
