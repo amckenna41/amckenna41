@@ -9,6 +9,8 @@
 - 🌱 I’m currently learning [Unreal Engine 4](https://www.udemy.com/course/unrealcourse/) and some light [Android Development](https://www.udemy.com/course/the-complete-android-oreo-developer-course/) via Udemy.
 - 👯 I’m looking to collaborate on any data science, machine learning or bioinformatics related projects. 
 
+### Recent Github activity 
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="amckenna Spotify Playing" width="350" />](https://open.spotify.com/user/a9npRdzhR7uzv1aL3cKugw)
@@ -33,6 +35,8 @@ insert email here
 
 ### Languages and Tools:
 
+simpleicons.org
+search for image in github search and copy link address from image. 
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
@@ -55,8 +59,14 @@ insert email here
 <br />
 
 #### View my stats on Github 
-   
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=amckenna41&show_icons=true)
+
+<details>
+   <summary>:zap: Github Stats</summary>
+<!-- ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=amckenna41&show_icons=true)
+ -->
+   <img align="left" alt="amckenna41" src="https://github-readme-stats-git-master.amckenna41.vercel.app/api?username=amckenna41&show_icons=true" />
+
+</details>
 
 
 [linkedin]: https://www.linkedin.com/in/adam-mckenna-7a5b22151/
