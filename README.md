@@ -61,6 +61,10 @@ search for image in github search and copy link address from image.
 #### View my stats on Github 
 
 <details>
+   <summary>:zap: Recent Github Activity </summary>
+
+</details>
+<details>
    <summary>:zap: Github Stats</summary>
 <!-- ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=amckenna41&show_icons=true)
  -->
