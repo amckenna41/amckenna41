@@ -18,14 +18,15 @@
 ### Connect with me:
 
 [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/GitHub.svg" />][github]
+[<img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="Insta" width="22px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/instagram-icon.svg"/>][insta]
 [<img align="left" alt="mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Gmail.svg" />][gmail]
-
 
 <br> 
 
 ### Languages and Tools:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amckenna41&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 simpleicons.org
 search for image in github search and copy link address from image. 
@@ -66,6 +67,9 @@ search for image in github search and copy link address from image.
 
 
 [linkedin]: https://www.linkedin.com/in/adam-mckenna-7a5b22151/
+[insta]: https://raw.githubusercontent.com/gilbarbara/logos/master/logos/instagram-icon.svg
+[gmail]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Gmail.svg
+
 
 https://github.com/anuraghazra
 https://github.com/anuraghazra/github-readme-stats
