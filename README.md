@@ -2,11 +2,11 @@
 
 
 
-### I'm a final year Master's student, studying Computer Science at Queen's University Belfast from Belfast, Ireland. 🎓🇮🇪🇬🇧
+### Master's Computer Science Graduate, from Belfast, Ireland. 🎓🇮🇪🇬🇧
 
-- 📚 My Master's Thesis this year is on the prediction of biological characteristics & functionalities of viral proteins via Digital Signal Processing and Machine Learning techniques. 
-- 🔭 I’m currently working on Protein Secondary Structure prediction using deep learning)](https://github.com/amckenna41/CDBLSTM_PSP)
-- 🌱 I’m currently learning [Unreal Engine 4](https://www.udemy.com/course/unrealcourse/) and some light [Android Development](https://www.udemy.com/course/the-complete-android-oreo-developer-course/) via Udemy.
+- 📚 My recent Master's Thesis was within the field of Bioinformaticcs, studing the effect mutations can have on the fitness/activity of different proteins/enzymes using Machine Learning and Digital Signal Processing techniques.(https://github.com/amckenna41/pySAR)
+- 🔭 Currently working on a similar Bioinformatics project, predicting the secondary structure of proteins using their initial sequence, making use of deep learning and neural networks.(https://github.com/amckenna41/CDBLSTM_PSP)
+- 🌱 I’m currently learning [Unreal Engine 4](https://www.udemy.com/course/unrealcourse/), some light [Android Development](https://www.udemy.com/course/the-complete-android-oreo-developer-course/) and a little bit of [ReactJS](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) via Udemy.
 - 👯 I’m looking to collaborate on any data science, machine learning or bioinformatics related projects. 
 
 ### Recent Github activity 
@@ -18,18 +18,10 @@
 ### Connect with me:
 
 [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Insta" width="22px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/instagram-icon.svg"/>][linkedin]
+[<img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/GitHub.svg" />][github]
+[<img align="left" alt="Insta" width="22px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/instagram-icon.svg"/>][insta]
+[<img align="left" alt="mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Gmail.svg" />][gmail]
 
-insert email here
-
-
-<!-- YOUTUBE:START -->
-- [This is ALL you NEED to Become a Web Developer Today (2021)](https://www.youtube.com/watch?v=LTwFX-hitQo)
-- [Top VS Code Updates | Last 2020 Update | v1.52 Released!! | Tips & Tricks 2020](https://www.youtube.com/watch?v=dgOu1Y9xl5k)
-- [How to make a Discord Input in HTML & CSS | Micro-Interaction & JavaScript Validation](https://www.youtube.com/watch?v=3tG1jUQbuSI)
-- [Deploy Next.js on Netlify in ONE click!! | Next.js Build Plugin on Netlify](https://www.youtube.com/watch?v=NhWCEdja9W4)
-- [Ultimate Guide to Web Development in 2021 & Beyond! | Roadmap 2021+](https://www.youtube.com/watch?v=7k7ETzqOxn8)
-<!-- YOUTUBE:END -->
 
 <br> 
 
