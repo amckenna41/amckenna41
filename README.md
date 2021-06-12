@@ -8,7 +8,7 @@ Hey, I'm Adam, a recent Master's Computer Science from Belfast, Ireland 🎓🇮
 - 👯 Looking to collaborate on any data science, machine learning or bioinformatics related projects. 
 
 ### Recent Github activity 
-<img align="left" alt="amckenna41" src="https://github-readme-stats-git-master.amckenna41.vercel.app/api?username=amckenna41&show_icons=true" />
+<img align="left" alt="amckenna41" src="https://github-readme-stats-git-master.amckenna41.vercel.app/api?username=amckenna41&show_icons=true" width="350" />
 
 ### Spotify Playing 🎧
 
