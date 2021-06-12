@@ -2,12 +2,13 @@
 
 Hey, I'm Adam, a recent Master's Computer Science from Belfast, Ireland 🎓🇮🇪🇬🇧.I'm fairly open-minded to all things tech and will tackle anything that comes my way although my passions lie in full-stack web development, Machine Learning and DevOps. 
 
-- 📚 My recent Master's Thesis was within the field of Bioinformaticcs, studing the effect mutations can have on the fitness/activity of different proteins/enzymes using Machine Learning and Digital Signal Processing techniques.(https://github.com/amckenna41/pySAR)
-- 🔭 Currently working on a similar Bioinformatics project, predicting the secondary structure of proteins using their initial sequence, making use of deep learning and neural networks.(https://github.com/amckenna41/CDBLSTM_PSP)
+- 📚 My recent Master's Thesis was within the field of Bioinformaticcs, studing the effect mutations can have on the fitness/activity of different proteins/enzymes using Machine Learning and Digital Signal Processing techniques, building a Python Software package called [pySAR](https://github.com/amckenna41/pySAR)
+- 🔭 Currently working on a similar Bioinformatics project, predicting the secondary structure of proteins using their initial sequence, making use of deep learning and neural networks - [CDBLSTM_PSP](https://github.com/amckenna41/CDBLSTM_PSP)
 - 🌱 Currently learning [Unreal Engine 4](https://www.udemy.com/course/unrealcourse/), some light [Android Development](https://www.udemy.com/course/the-complete-android-oreo-developer-course/) and a little bit of [ReactJS](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) via Udemy.
 - 👯 Looking to collaborate on any data science, machine learning or bioinformatics related projects. 
 
 ### Recent Github activity 
+<img align="left" alt="amckenna41" src="https://github-readme-stats-git-master.amckenna41.vercel.app/api?username=amckenna41&show_icons=true" />
 
 ### Spotify Playing 🎧
 
@@ -15,7 +16,7 @@ Hey, I'm Adam, a recent Master's Computer Science from Belfast, Ireland 🎓🇮
 
 ### Connect with me:
 
-[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
 [<img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="Insta" width="22px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/instagram-icon.svg"/>][insta]
 [<img align="left" alt="mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
