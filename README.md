@@ -37,9 +37,6 @@ Hey, I'm Adam, a recent Master's Computer Science from Belfast, Ireland 🎓🇮
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://media.trustradius.com/product-logos/bS/I8/UO2UCI37TC30-180x180.PNG"></code>
 
-<br />
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -51,31 +48,6 @@ Hey, I'm Adam, a recent Master's Computer Science from Belfast, Ireland 🎓🇮
 
 <br> 
 
-
-
-### Recent Projects:
-
-|*|Stars|Repo|Description|
-|---|---|---|---|
-| 📦 | 2395 | [elsaland/elsa](https://github.com/elsaland/elsa) | ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go |
-| 📦 | 804 | [webview/webview_deno](https://github.com/webview/webview_deno) | 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs |
-
-
-#### View my stats on Github 
-
-<details>
-   <summary>:zap: Recent Github Activity </summary>
-
-</details>
-<details>
-   <summary>:zap: Github Stats</summary>
-<!-- ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=amckenna41&show_icons=true)
- -->
-   <img align="left" alt="amckenna41" src="https://github-readme-stats-git-master.amckenna41.vercel.app/api?username=amckenna41&show_icons=true" />
-
-</details>
-
-
 [linkedin]: https://www.linkedin.com/in/adam-mckenna-7a5b22151/
 [github]: https://github.com/amckenna41
 [insta]: https://www.instagram.com/adammck98/
@@ -83,27 +55,4 @@ Hey, I'm Adam, a recent Master's Computer Science from Belfast, Ireland 🎓🇮
 [spotify]: https://open.spotify.com/user/bantihistamines?si=1a62120accf84add
 [medium]: https://github.com/amckenna41
 
-
-https://github.com/anuraghazra
-https://github.com/anuraghazra/github-readme-stats
-
-
-
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" />]
-
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-
-[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg" />]
-[<img align="left" alt="GCP" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg" />]
-
-
-
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-
-[<img align="left" alt="AdobeAnalyitics" width="26px" src="https://media.trustradius.com/product-logos/bS/I8/UO2UCI37TC30-180x180.PNG" />]
-
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
