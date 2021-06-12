@@ -12,8 +12,9 @@ Hey, I'm Adam, a recent Master's Computer Science from Belfast, Ireland 🎓🇮
 
 ### Spotify Playing 🎧
 
-[<img align="right" src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="amckenna Spotify Playing" width="350" />](https://open.spotify.com/user/a9npRdzhR7uzv1aL3cKugw)
+[<img align="left" src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="amckenna Spotify Playing" width="350" />](https://open.spotify.com/user/a9npRdzhR7uzv1aL3cKugw)
 
+<br>
 <br>
 
 ### Connect with me:
