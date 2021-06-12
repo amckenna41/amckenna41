@@ -7,8 +7,8 @@ Hey, I'm Adam, a recent Master's Computer Science from Belfast, Ireland 🎓🇮
 - 🌱 Currently learning [Unreal Engine 4](https://www.udemy.com/course/unrealcourse/), some light [Android Development](https://www.udemy.com/course/the-complete-android-oreo-developer-course/) and a little bit of [ReactJS](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) via Udemy.
 - 👯 Looking to collaborate on any data science, machine learning or bioinformatics related projects. 
 
-### Recent Github activity                    Spotify Playing 🎧
-<img align="left" alt="amckenna41" src="https://github-readme-stats-git-master.amckenna41.vercel.app/api?username=amckenna41&show_icons=true" width="350" />
+### Recent Github activity                                                  Spotify Playing 🎧
+<img align="left" alt="amckenna41" src="https://github-readme-stats-git-master.amckenna41.vercel.app/api?username=amckenna41&show_icons=true"  />
 
 [<img align="left" src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="amckenna Spotify Playing" width="350" />](https://open.spotify.com/user/a9npRdzhR7uzv1aL3cKugw)
 
