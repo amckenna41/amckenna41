@@ -21,17 +21,6 @@ Hey, I'm Adam, a recent Master's Computer Science from Belfast, Ireland 🎓🇮
 <br>
 <br>
 
-### Connect with me:
-
-[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="Insta" width="22px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/instagram-icon.svg"/>][insta]
-[<img align="left" alt="mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
-
-<br> 
-
 ### Languages and Tools:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amckenna41&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -50,6 +39,19 @@ Hey, I'm Adam, a recent Master's Computer Science from Belfast, Ireland 🎓🇮
 
 <br />
 <br />
+
+### Connect with me:
+
+[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="Insta" width="22px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/instagram-icon.svg"/>][insta]
+[<img align="left" alt="mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
+
+<br> 
+
+
 
 ### Recent Projects:
 
