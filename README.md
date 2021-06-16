@@ -10,8 +10,8 @@ Hey, I'm Adam, a recent Master's Computer Science from Belfast, Ireland 🎓🇮
 ### Recent Github activity                                                  
 <img align="left" alt="amckenna41" src="https://github-readme-stats-git-master.amckenna41.vercel.app/api?username=amckenna41&show_icons=true"  />
 
-### Spotify Playing 🎧
-[<img align="left" src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="amckenna Spotify Playing" width="350" />](https://open.spotify.com/user/a9npRdzhR7uzv1aL3cKugw)
+<!-- ### Spotify Playing 🎧
+[<img align="left" src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="amckenna Spotify Playing" width="350" />](https://open.spotify.com/user/a9npRdzhR7uzv1aL3cKugw) -->
 
 <br>
 <br>
