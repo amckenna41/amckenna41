@@ -20,6 +20,7 @@ Hey, I'm Adam, a recent Master's Computer Science from Belfast, Ireland 🎓🇮
 <br>
 <br>
 <br>
+<br>
 
 ### Languages and Tools:
 
