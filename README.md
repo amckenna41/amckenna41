@@ -1,5 +1,6 @@
-### Hello there <img src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="10px">
-
+### Hello there
+<!-- <img src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="10px">
+ -->
 Hey, I'm AJ, a recent Master's of Computer Science graduate from Belfast, Ireland 🎓🇮🇪🇬🇧.I'm fairly open-minded to all things tech and will tackle anything that comes my way although my passions lie in full-stack web development, Machine Learning and DevOps. 
 
 - 📚 My recent Master's Thesis was within the field of Bioinformatics, studying the effect mutations can have on the fitness/activity of different proteins/enzymes using Machine Learning and Digital Signal Processing techniques, building a Python Software package called [pySAR](https://github.com/amckenna41/pySAR). I eventually got this published within the Journal of Biomedical Informatics, and is available [here](https://www.sciencedirect.com/science/article/abs/pii/S1532046422000326)
