@@ -10,7 +10,7 @@ Recent Master's of Computer Science graduate from Belfast, Ireland 🎓🇮🇪�
 - 🌱 Currently learning [Unreal Engine 5](https://www.udemy.com/course/unrealcourse/), some light [Android Development](https://www.udemy.com/course/the-complete-android-oreo-developer-course/) and a little bit of [ReactJS](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) via Udemy.
 - 👯 Looking to collaborate on any data science, machine learning or bioinformatics related projects. 
 
-### Recent Github activity                                                  
+### ⚙️ Recent Github activity                                                  
 <img align="left" alt="amckenna41" src="https://github-readme-stats-git-master.amckenna41.vercel.app/api?username=amckenna41&show_icons=true"  />
 
 <!-- ### Spotify Playing 🎧
@@ -26,34 +26,37 @@ Recent Master's of Computer Science graduate from Belfast, Ireland 🎓🇮🇪�
 <br>
 <br>
 
-💻 ### Languages and Tools:
+### 👨🏻‍💻 &nbsp;Languages:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amckenna41&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  -->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
+<code><img height="20" src="https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://media.trustradius.com/product-logos/bS/I8/UO2UCI37TC30-180x180.PNG"></code>
 
-⚡ ### Tools and Technologies:
+### ⚡ Tools and Technologies:
 
 <code><img height="20" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://img.shields.io/badge/-React-000?&logo=React"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"></code>
 <code><img height="20" src="https://media.trustradius.com/product-logos/bS/I8/UO2UCI37TC30-180x180.PNG"></code>
 
-📬 ### Connect with me:
+
+### 🎧 Spotify Playing 
+[![Spotify](https://novatorem-amckenna41.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/bantihistamines)
+
+
+### 📬 Connect with me:
 
 [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
@@ -64,9 +67,6 @@ Recent Master's of Computer Science graduate from Belfast, Ireland 🎓🇮🇪�
 
 <br> 
 
-### Spotify Playing 🎧
-[![Spotify](https://novatorem-amckenna41.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/bantihistamines)
-
 
 [linkedin]: https://www.linkedin.com/in/adam-mckenna-7a5b22151/
 [github]: https://github.com/amckenna41
@@ -75,4 +75,7 @@ Recent Master's of Computer Science graduate from Belfast, Ireland 🎓🇮🇪�
 [spotify]: https://open.spotify.com/user/bantihistamines?si=1a62120accf84add
 [medium]: https://github.com/amckenna41
 
-
+<!--To Do:
+* Add more badges and logos etc 
+* Add resume 
+* Gifs or vector of coding/developing -->
