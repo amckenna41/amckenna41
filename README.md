@@ -1,4 +1,4 @@
-### Hello there, AJ here
+### Hello there, AJ here 🤘
 <!-- <img src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="10px">
  -->
 Recent Master's of Computer Science graduate from Belfast, Ireland 🎓🇮🇪🇬🇧.I'm fairly open-minded to all things tech and will tackle anything that comes my way although my passions lie in full-stack web development, Machine Learning and DevOps. 
