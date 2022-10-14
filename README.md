@@ -1,7 +1,7 @@
-### Hello there
+### Hello there, AJ here
 <!-- <img src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="10px">
  -->
-Hey, I'm AJ, a recent Master's of Computer Science graduate from Belfast, Ireland 🎓🇮🇪🇬🇧.I'm fairly open-minded to all things tech and will tackle anything that comes my way although my passions lie in full-stack web development, Machine Learning and DevOps. 
+Recent Master's of Computer Science graduate from Belfast, Ireland 🎓🇮🇪🇬🇧.I'm fairly open-minded to all things tech and will tackle anything that comes my way although my passions lie in full-stack web development, Machine Learning and DevOps. 
 
 - 📚 My recent Master's Thesis was within the field of Bioinformatics, studying the effect mutations can have on the fitness/activity of different proteins/enzymes using Machine Learning and Digital Signal Processing techniques, building a Python Software package called [pySAR](https://github.com/amckenna41/pySAR). I eventually got this published within the Journal of Biomedical Informatics, and is available [here](https://www.sciencedirect.com/science/article/abs/pii/S1532046422000326)
 - 🔭 Currently working on a similar Bioinformatics project, predicting the secondary structure of proteins using their initial sequence, making use of deep learning and neural networks - [DCBLSTM_PSP](https://github.com/amckenna41/DCBLSTM_PSP).
@@ -38,6 +38,21 @@ Hey, I'm AJ, a recent Master's of Computer Science graduate from Belfast, Irelan
 <code><img height="20" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://media.trustradius.com/product-logos/bS/I8/UO2UCI37TC30-180x180.PNG"></code>
+
+### Tools and Technologies:
+
+<code><img height="20" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://img.shields.io/badge/-React-000?&logo=React"></code>
+
+
+<code><img height="20" src="https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow"></code>
+
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://media.trustradius.com/product-logos/bS/I8/UO2UCI37TC30-180x180.PNG"></code>
 
 ### Connect with me:
