@@ -65,7 +65,7 @@ Recent Master's of Computer Science graduate from Belfast, Ireland 🎓🇮🇪�
 <br> 
 
 ### Spotify Playing 🎧
-[![Spotify](https://spotify-now-playing-amckenna41.vercel.app/api/spotify)](https://open.spotify.com/user/bantihistamines)
+[![Spotify](https://novatorem-amckenna41.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/bantihistamines)
 
 
 [linkedin]: https://www.linkedin.com/in/adam-mckenna-7a5b22151/
