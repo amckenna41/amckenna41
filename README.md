@@ -3,6 +3,8 @@
  -->
 Recent Master's of Computer Science graduate from Belfast, Ireland 🎓🇮🇪🇬🇧.I'm fairly open-minded to all things tech and will tackle anything that comes my way although my passions lie in full-stack web development, Machine Learning and DevOps. 
 
+<!-- Check out my [website](https://) (<i>coming soon</i>) 🔭 
+ -->
 - 📚 My recent Master's Thesis was within the field of Bioinformatics, studying the effect mutations can have on the fitness/activity of different proteins/enzymes using Machine Learning and Digital Signal Processing techniques, building a Python Software package called [pySAR](https://github.com/amckenna41/pySAR). I eventually got this published within the Journal of Biomedical Informatics, and is available [here](https://www.sciencedirect.com/science/article/abs/pii/S1532046422000326)
 - 🔭 Currently working on a similar Bioinformatics project, predicting the secondary structure of proteins using their initial sequence, making use of deep learning and neural networks - [DCBLSTM_PSP](https://github.com/amckenna41/DCBLSTM_PSP).
 - 🌱 Currently learning [Unreal Engine 5](https://www.udemy.com/course/unrealcourse/), some light [Android Development](https://www.udemy.com/course/the-complete-android-oreo-developer-course/) and a little bit of [ReactJS](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) via Udemy.
@@ -24,7 +26,7 @@ Recent Master's of Computer Science graduate from Belfast, Ireland 🎓🇮🇪�
 <br>
 <br>
 
-### Languages and Tools:
+💻 ### Languages and Tools:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amckenna41&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  -->
@@ -40,22 +42,18 @@ Recent Master's of Computer Science graduate from Belfast, Ireland 🎓🇮🇪�
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://media.trustradius.com/product-logos/bS/I8/UO2UCI37TC30-180x180.PNG"></code>
 
-### Tools and Technologies:
+⚡ ### Tools and Technologies:
 
 <code><img height="20" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://img.shields.io/badge/-React-000?&logo=React"></code>
-
-
 <code><img height="20" src="https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow"></code>
-
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://media.trustradius.com/product-logos/bS/I8/UO2UCI37TC30-180x180.PNG"></code>
 
-### Connect with me:
+📬 ### Connect with me:
 
 [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
@@ -65,6 +63,9 @@ Recent Master's of Computer Science graduate from Belfast, Ireland 🎓🇮🇪�
 [<img align="left" alt="spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
 
 <br> 
+
+### Spotify Playing 🎧
+[![Spotify](https://novatorem-amckenna41.vercel.app/)](https://open.spotify.com/user/bantihistamines)
 
 [linkedin]: https://www.linkedin.com/in/adam-mckenna-7a5b22151/
 [github]: https://github.com/amckenna41
