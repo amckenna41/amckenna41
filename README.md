@@ -64,6 +64,7 @@ Recent Master's of Computer Science graduate from Belfast, Ireland 🎓🇮🇪�
 [<img align="left" alt="mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
+[<img align="left" alt="letterboxd" width="22px" src="https://a.ltrbxd.com/logos/letterboxd-decal-dots-pos-mono.svg" />][letterboxd]
 
 <br> 
 
@@ -74,6 +75,7 @@ Recent Master's of Computer Science graduate from Belfast, Ireland 🎓🇮🇪�
 [gmail]: mailto:amckenna41@qub.ac.uk
 [spotify]: https://open.spotify.com/user/bantihistamines?si=1a62120accf84add
 [medium]: https://github.com/amckenna41
+[letterboxd]: https://letterboxd.com/ajmck98/
 
 <!--To Do:
 * Add more badges and logos etc 
