@@ -60,6 +60,7 @@ Recent Master's of Computer Science graduate from Belfast, Ireland 🎓🇮🇪�
 
 [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="github" width="22px" src="https://searchvectorlogo.com/wp-content/uploads/2021/10/npm-inc-logo-vector.png" />][npm]
 [<img align="left" alt="Insta" width="22px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/instagram-icon.svg"/>][insta]
 [<img align="left" alt="mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
@@ -76,6 +77,7 @@ Recent Master's of Computer Science graduate from Belfast, Ireland 🎓🇮🇪�
 [spotify]: https://open.spotify.com/user/bantihistamines?si=1a62120accf84add
 [medium]: https://github.com/amckenna41
 [letterboxd]: https://letterboxd.com/ajmck98/
+[npm]: https://www.npmjs.com/~ajmck
 
 <!--To Do:
 * Add more badges and logos etc 
