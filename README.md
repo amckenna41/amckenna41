@@ -1,19 +1,19 @@
 # Hey there, AJ here 🤘
 <!-- <img src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="10px">
  -->
-I'm a software Developer, author and Master's of Computer Science graduate from Belfast, Ireland 🧑‍💻. 
+I'm a Software Developer, published researcher and Master's of Computer Science graduate from Belfast, Ireland 🧑‍💻. 
 
 <!-- I've worked on a variety of diverse projects from building a protein function prediction pipeline ([pySAR](https://github.com/amckenna41/pySAR)) to a whole suite of applications around the ISO 3166 country code standard ([iso3166-2](https://github.com/amckenna41/iso3166-2), [iso3166-updates](https://github.com/amckenna41/iso3166-updates), [iso3166-flag-icons](https://github.com/amckenna41/iso3166-flag-icons)). -->
 
 <!-- Check out my [website](https://) (<i>coming soon</i>) 🔭 
  -->
  ## 📁 Recent projects
-- 📚 [pySAR](https://github.com/amckenna41/pySAR) - my Master's Thesis was within the field of Bioinformatics, studying the effect mutations can have on the fitness/activity of different proteins/enzymes using Machine Learning and Digital Signal Processing techniques, building a Python Software package called pySAR. I eventually got this published within the Journal of Biomedical Informatics, and is available [here](https://www.sciencedirect.com/science/article/abs/pii/S1532046422000326).
+- 📚 [pySAR](https://github.com/amckenna41/pySAR) - my Master's Thesis was within the field of Bioinformatics, studying the effect mutations can have on the fitness/activity of different proteins/enzymes using Machine Learning and Digital Signal Processing techniques, building a Python Software package called pySAR. I got this research paper published within the Journal of Biomedical Informatics, and is available [here](https://www.sciencedirect.com/science/article/abs/pii/S1532046422000326).
 - 🌎 [iso3166-flag-icons](https://github.com/amckenna41/iso3166-flag-icons) - a verbose dataset of over **~3500 country and regional flags**, a unique collection that is not easily available across any platform, including GitHub.
 - 🌎 [iso3166-2](https://github.com/amckenna41/iso3166-2) - a Python application and accompanying API that stores up-to-date, reliable and accurate data for each region across the world, according to the ISO 3166-2 standard, making any region's data accessible via a single command.
 - 🌎 [iso3166-updates](https://github.com/amckenna41/iso3166-updates) - a Python package and accompanying API that pulls all the latest updates for the ISO 3166 standard, taken directly from the ISO themselves, which ensures that the aforementioned projects are accurate and up-to-date.
 - 🧬 [protpy](https://github.com/amckenna41/protPy) - a Python package for calculating a range of protein descriptors using their physicochemical, biological and structural properties. Built alongside and for use in pySAR.
-- 🧬 [aaindex](https://github.com/amckenna41/aaindex) - a Python package for working with the AAIndex database (https://www.genome.jp/aaindex/). Built alongside and for use in pySAR.
+- 🧬 [aaindex](https://github.com/amckenna41/aaindex) - a Python package for working with the various datasets of the AAIndex database (https://www.genome.jp/aaindex/). Built alongside and for use in pySAR.
 - 🔭 [DCBLSTM_PSP](https://github.com/amckenna41/DCBLSTM_PSP) - a similar Bioinformatics project to pySAR, predicting the secondary structure of proteins using their initial sequence, making use of deep learning and neural networks.
 - 📕 [pyWikiCommons](https://github.com/amckenna41/pyWikiCommons) - a Python package for downloading images and videos from Wikimedia Commons - based on now outdated Python 2 scripts.
 - 🧠 [izhikevichSpikingNeuron](https://github.com/amckenna41/izhikevich-spiking-neuron) - implementation of the Izhikevich Spiking Neuron model using Simulink and Xilinx tools.
@@ -84,7 +84,7 @@ I'm a software Developer, author and Master's of Computer Science graduate from 
 [insta]: https://www.instagram.com/aj.dev/
 [gmail]: mailto:amckenna41@qub.ac.uk
 [spotify]: https://open.spotify.com/user/bantihistamines?si=1a62120accf84add
-[medium]: [https://github.com/amckenna41](https://medium.com/@ajmckenna69)
+[medium]: https://medium.com/@ajmckenna69
 [letterboxd]: https://letterboxd.com/ajmck98/
 [npm]: https://www.npmjs.com/~ajmck
 
