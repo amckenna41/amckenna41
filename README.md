@@ -60,6 +60,14 @@ I'm a Software Developer, published researcher and Master's of Computer Science 
 <!--
 <code><img height="20" src="https://media.trustradius.com/product-logos/bS/I8/UO2UCI37TC30-180x180.PNG"></code> -->
 
+<!--
+## 📦 Libraries and packages
+
+<code><img height="20" src="https://cdn.svgporn.com/logos/pandas-icon.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/flask.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/matplotlib-icon.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/seaborn-icon.svg"></code>
+--> 
 
 ## 🎧 Currently vibing to
 [![Spotify](https://novatorem-amckenna41.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/bantihistamines)
