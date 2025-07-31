@@ -1,7 +1,7 @@
 # Hey there, AJ here 🤘
 <!-- <img src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="10px">
  -->
-I'm a Software Developer, published AI researcher and Master's of Computer Science graduate from Belfast 🇮🇪, based in London 🇬🇧 🧑‍💻. 
+I'm a Software Developer, published AI researcher in Bioinformatics and Master's of Computer Science graduate from Belfast 🇮🇪, based in London 🇬🇧 🧑‍💻. 
 
 <!-- I've worked on a variety of diverse projects from building a protein function prediction pipeline ([pySAR](https://github.com/amckenna41/pySAR)) to a whole suite of applications around the ISO 3166 country code standard ([iso3166-2](https://github.com/amckenna41/iso3166-2), [iso3166-updates](https://github.com/amckenna41/iso3166-updates), [iso3166-flag-icons](https://github.com/amckenna41/iso3166-flag-icons)). -->
 
