@@ -7,7 +7,7 @@
 
 <!-- Check out my [website](https://) (<i>coming soon</i>) 🔭 
  -->
- ## 📁 Recent projects
+ ## 📁 Current projects
 - 📚🔭 [pySAR](https://github.com/amckenna41/pySAR) - my Master's Thesis was within the field of Bioinformatics, studying the effect mutations can have on the fitness/activity of different proteins/enzymes using Machine Learning and Digital Signal Processing techniques, building a Python Software package called pySAR. I got this research paper **published** within the Journal of Biomedical Informatics, and is available here: https://www.sciencedirect.com/science/article/abs/pii/S1532046422000326.
 - 📚🔭 [DCBLSTM_PSP](https://github.com/amckenna41/DCBLSTM_PSP) - a similar Bioinformatics project to pySAR, predicting the secondary structure of proteins using their initial sequence, making use of LSTM deep learning and neural networks. This work was also **published** within the Computers in Biology and Medicine journal and is available here: https://www.sciencedirect.com/science/article/pii/S001048252500808X.
 - 🌎 [iso3166-2](https://github.com/amckenna41/iso3166-2) - a Python application and accompanying RESTful API that stores up-to-date, reliable, bespoke and accurate data for the over **5000** regions/subdivisions across the world, according to the ISO 3166-2 standard, making any region's data accessible via a single command. This dataset pulls dataset from my other custom-built ISO 3166 related datasets [iso3166-flag-icons](https://github.com/amckenna41/iso3166-flag-icons) and [iso3166-updates](https://github.com/amckenna41/iso3166-updates).
