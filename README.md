@@ -28,21 +28,6 @@
  ## 📖 Published works
 - 📚🔭 [Machine learning based predictive model for the analysis of sequence activity relationships using protein spectra and protein descriptors](https://www.sciencedirect.com/science/article/pii/S1532046422000326) - Journal of Biomedical Informatics.
 - 📚🔭 [DCBLSTM—Deep Convolutional Bidirectional Long Short-Term Memory neural network for Q8 secondary protein structure prediction](https://www.sciencedirect.com/science/article/pii/S001048252500808X) - Journal of Computers in Biology and Medicine.
-  
-<!-- <-- 👯 Looking to collaborate on any data science, machine learning and or bioinformatics related projects. --> 
-
-<!-- ### Spotify Playing 🎧
-[<img align="left" src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="amckenna Spotify Playing" width="350" />](https://open.spotify.com/user/a9npRdzhR7uzv1aL3cKugw) -->
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ## 👨🏻‍💻 &nbsp;Languages
 
@@ -94,6 +79,22 @@
 [<img align="left" alt="github" width="22px" src="https://searchvectorlogo.com/wp-content/uploads/2021/10/npm-inc-logo-vector.png" />][npm]
 
 <br> 
+<!-- <-- 👯 Looking to collaborate on any data science, machine learning and or bioinformatics related projects. --> 
+
+<!-- ### Spotify Playing 🎧
+[<img align="left" src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="amckenna Spotify Playing" width="350" />](https://open.spotify.com/user/a9npRdzhR7uzv1aL3cKugw) -->
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 
 
 [linkedin]: https://www.linkedin.com/in/adam-mckenna-7a5b22151/
