@@ -3,6 +3,9 @@
  -->
 ### Software Developer, published AI researcher in Bioinformatics and Master's of Computer Science graduate based in London 🇬🇧 🧑‍💻. 
 
+## ⚙️ Recent GitHub activity                                                  
+<img align="left" alt="amckenna41" src="https://github-readme-stats-git-master.amckenna41.vercel.app/api?username=amckenna41&show_icons=true&theme=tokyonight"  />
+
 <!-- I've worked on a variety of diverse projects from building a protein function prediction pipeline ([pySAR](https://github.com/amckenna41/pySAR)) to a whole suite of applications around the ISO 3166 country code standard ([iso3166-2](https://github.com/amckenna41/iso3166-2), [iso3166-updates](https://github.com/amckenna41/iso3166-updates), [iso3166-flag-icons](https://github.com/amckenna41/iso3166-flag-icons)). -->
 
 <!-- Check out my [website](https://) (<i>coming soon</i>) 🔭 
@@ -23,9 +26,6 @@
 - 📚🔭 [DCBLSTM—Deep Convolutional Bidirectional Long Short-Term Memory neural network for Q8 secondary protein structure prediction](https://www.sciencedirect.com/science/article/pii/S001048252500808X) - Journal of Computers in Biology and Medicine.
   
 <!-- <-- 👯 Looking to collaborate on any data science, machine learning and or bioinformatics related projects. --> 
-
-## ⚙️ Recent GitHub activity                                                  
-<img align="left" alt="amckenna41" src="https://github-readme-stats-git-master.amckenna41.vercel.app/api?username=amckenna41&show_icons=true&theme=tokyonight"  />
 
 <!-- ### Spotify Playing 🎧
 [<img align="left" src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="amckenna Spotify Playing" width="350" />](https://open.spotify.com/user/a9npRdzhR7uzv1aL3cKugw) -->
